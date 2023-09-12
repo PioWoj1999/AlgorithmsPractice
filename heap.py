@@ -1,3 +1,4 @@
+'''Heap algorithm presentation in Python.'''
 import heapq
 
 def main(): 
